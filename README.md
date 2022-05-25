@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Igor 👋</a>
 
-### >I'm a student of National Aerospase University "Kharkiv Aviation Institute". My specialty is Telecommunications and Radioengineering (Radio Electronic Devices, Systems and Complexes)>
+### I'm a student of National Aerospase University "Kharkiv Aviation Institute". My specialty is Telecommunications and Radioengineering (Radio Electronic Devices, Systems and Complexes)
 
 <p align="center">  
   <a href="https://t.me/KpoT45">
